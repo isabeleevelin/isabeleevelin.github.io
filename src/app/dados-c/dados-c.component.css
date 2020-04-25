@@ -1,0 +1,42 @@
+.table{
+    margin-left: 30%;
+    color: rgb(16, 3, 87, 0.979);
+    border-spacing: 10px 12px;
+    
+  }
+  .table tr{
+    border-bottom: solid rgb(248, 248, 247) 8px;
+    padding:5px 5px 0 5px;
+  }
+  .table td{
+    min-width: 150px;
+    height: 18px;
+  }
+  
+  table{
+    border-spacing: 0 8px;
+    border-collapse: separate;
+    border: 2px;
+    margin:20px;
+  }
+
+  #resumo{
+    float: right;
+    background-color: white;
+    width:68%;
+    height: auto;
+    margin-bottom:80px;    
+    color: rgb(248, 248, 246);
+    
+    
+    
+  }
+  
+  .curriculo {
+    background-color: rgb(54, 204, 209);
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 20%;
+    padding:10px;
+  }
+  

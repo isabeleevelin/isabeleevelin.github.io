@@ -1,0 +1,31 @@
+
+.rodape{
+    width: 100%;
+    height: auto;
+    background-color: rgb(7, 5, 121);
+    float:right;
+    position: static;
+    align-items: baseline;
+   
+  }
+  
+  .rodape mat-icon{
+    margin-left: 50%;
+    color: rgb(29, 36, 73, 0.979);
+    
+  }
+
+  .rodape img{
+    /*border-radius: 100%;
+    
+    */
+    
+    margin-left: 50%;   
+    width: 100px;
+    height: 90px;
+    
+    object-fit: cover;
+    
+
+
+  }

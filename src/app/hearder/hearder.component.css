@@ -1,0 +1,14 @@
+.hearder{
+    overflow: hidden;
+    
+    width: 100%;
+    height: 100px;
+    background-color: rgba(16, 3, 87, 0.979);  
+}
+
+img{ 
+    margin-right:20%;  
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}

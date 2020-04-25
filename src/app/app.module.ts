@@ -9,13 +9,19 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatMenuModule } from '@angular/material/menu';
 import { LogoComponent } from './logo/logo.component';
+import { DadosCComponent } from './dados-c/dados-c.component';
+import { RodapeComponent } from './rodape/rodape.component';
+import { HearderComponent } from './hearder/hearder.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
     MenuComponent,
-    LogoComponent
+    LogoComponent,
+    DadosCComponent,
+    RodapeComponent,
+    HearderComponent
   ],
   imports: [
     BrowserModule,
