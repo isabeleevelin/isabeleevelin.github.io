@@ -12,6 +12,7 @@ import { LogoComponent } from './logo/logo.component';
 import { DadosCComponent } from './dados-c/dados-c.component';
 import { RodapeComponent } from './rodape/rodape.component';
 import { HearderComponent } from './hearder/hearder.component';
+import { PaginaPrincipalComponent } from './pagina-principal/pagina-principal.component';
 
 
 @NgModule({
@@ -21,7 +22,8 @@ import { HearderComponent } from './hearder/hearder.component';
     LogoComponent,
     DadosCComponent,
     RodapeComponent,
-    HearderComponent
+    HearderComponent,
+    PaginaPrincipalComponent
   ],
   imports: [
     BrowserModule,

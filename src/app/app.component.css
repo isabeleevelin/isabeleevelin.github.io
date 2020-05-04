@@ -33,15 +33,7 @@ img{
   height: 80px;
   object-fit: cover;
 }
-.hearder{
-  
-  width: 100%;
-  height: auto;
-  position: relative;
-  float: left;  
-  background-color: rgb(7, 5, 121);
-  
-}
+
 .conteudo{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
   float:right;
